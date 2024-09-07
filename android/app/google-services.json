@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691319620274",
+    "project_id": "chat-81a37",
+    "storage_bucket": "chat-81a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691319620274:android:281206996e16f2aed87fab",
+        "android_client_info": {
+          "package_name": "com.shawky.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1zr2DJ841xrAW8jVvILbr_olxOT8JrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
